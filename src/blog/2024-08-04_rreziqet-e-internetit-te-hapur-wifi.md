@@ -6,6 +6,7 @@ author: Kevin Powell
 date: 2024-08-05T01:55:00.000Z
 tags:
   - post
+  - featured
 image: /assets/blog/palidhje.png
 imageAlt: This is a test
 ---
