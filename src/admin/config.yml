@@ -7,7 +7,7 @@ collections:
   - name: "Blog"
     label: "blog"
     folder: "src/blog"
-    create: "true"
+    create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields: 
       - { label: "Title", name: "title", widget: "string" }
